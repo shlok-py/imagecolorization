@@ -18,3 +18,6 @@
 - **Transposed Convolutional Layers**: Upsamples feature maps.
   - Each layer followed by batch normalization and ReLU activation.
 - **Final Layer**: Transposed convolutional layer mapping output to 2 channels (ab channels).
+https://huggingface.co/spaces/shlok123/imageColorization
+
+goto above link for demo
